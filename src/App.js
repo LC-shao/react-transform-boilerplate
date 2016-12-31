@@ -32,6 +32,7 @@ export class App extends Component {
     return (
       <div>
         <Counter increment={1} color={NICE} />
+        233333
         <Counter increment={5} color={SUPER_NICE} />
       </div>
     );
